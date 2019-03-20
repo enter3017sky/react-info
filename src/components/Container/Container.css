@@ -1,0 +1,125 @@
+
+.about {
+    /* width: 100vw; */
+    /* border: 2px solid orange; */
+}
+
+.example {
+    width: 18rem;
+}
+
+.example-header {
+    padding: 3rem 5rem 0;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.example-row {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-flow: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 5rem 0;
+}
+
+.img_box {
+}
+
+.img_box > img {
+    max-width: 286px;
+    max-height: 170px;
+}
+
+.example-row ~ .example-row {
+    padding-bottom: 3rem;
+}
+/* .example > a > img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	max-height: 100%;
+} */
+/* .img_box > .card-img-top { */
+    /* width: auto;
+    height: auto;
+    max-width: 100%;
+} */
+
+.card-body {
+    text-align: left;
+}
+
+@media screen and (max-width: 1183px) {
+    .example-header {
+        padding: 2rem 4rem 0;
+    }
+    .example-row {
+        padding: 2rem 4rem 0;
+    } 
+}
+
+@media screen and (max-width: 1083px) {
+    .example-header {
+        padding: 2rem 3rem 0;
+    }
+    .example-row {
+        padding: 2rem 3rem 0;
+    } 
+}
+
+@media screen and (max-width: 991px) {
+    .example-header {
+        padding: 2rem 2rem 0;
+    }
+    .example-row {
+        padding: 2rem 2rem 0;
+    } 
+}
+@media screen and (max-width: 929px) {
+    .example-header {
+        padding: 2rem 1rem 0;
+    }
+    .example-row {
+        padding: 2rem 1rem 0;
+    } 
+}
+@media screen and (max-width: 860px) {
+    .example-header {
+        padding: 2rem 1rem 0;
+    }
+    .example-row {
+        padding: 2rem 0 0;
+    } 
+}
+@media screen and (max-width: 600px) {
+    .example {
+        min-width: 90%;
+        margin-top: 1rem;
+    }
+    .img_box > img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .example-header {
+        padding: 1.5rem;
+    }
+    .example-title > h1 {
+        font-size: 2rem;
+    }
+    .example-title > h3 {
+        font-size: 1.5rem;
+    }
+    .example-row ~ .example-row {
+        padding-bottom: 1rem;
+    }
+    .example-row {
+        justify-content: center;
+        flex-flow: wrap;
+        text-align: center;
+        padding: 0;
+    } 
+}
