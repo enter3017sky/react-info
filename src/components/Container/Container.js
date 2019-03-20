@@ -21,19 +21,20 @@ class Container extends Component {
                             </div>
                         </a>
                         <Card.Body>
-                            <Card.Title>Message Board</Card.Title>
+                            <Card.Title>
+                                PHP Message Board
+                            </Card.Title>
                             <Card.Text>
                                 PHP + JQuery 的 AJAX 留言板
                                 <br />
                                 部署在 AWS EC2
                                 <br />
-                                支援 Markdown 語法
+                                支援 <i class="fab fa-markdown">Markdown</i> 語法
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className="text-muted">
-                            <a href="https://github.com/enter3017sky/forum-php-ajax">
-                                <i className="fab fa-github mr-2"></i>
-                                Source Code
+                            <a href="https://github.com/enter3017sky/forum-php-ajax" target="blank">
+                                <i className="fab fa-github mr-2 p-2">Source Code</i>
                             </a>
                         </Card.Footer>
                     </Card>
@@ -45,19 +46,20 @@ class Container extends Component {
                             </div>
                         </a>
                         <Card.Body>
-                            <Card.Title>PHP Blog</Card.Title>
+                            <Card.Title>
+                                PHP Blog
+                            </Card.Title>
                             <Card.Text>
                                 使用 PHP 製作的 Blog
                                 <br />
                                 部署在 AWS EC2 
                                 <br />
-                                支援 Markdown 語法
+                                支援 <i class="fab fa-markdown">Markdown</i> 語法
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className="text-muted">
-                            <a href="https://github.com/enter3017sky/blog-php-pdo">
-                                <i className="fab fa-github mr-2"></i>
-                                Source Code
+                            <a href="https://github.com/enter3017sky/blog-php-pdo" target="blank">
+                                <i className="fab fa-github mr-2 p-2">Source Code</i>
                             </a>
                         </Card.Footer>
                     </Card>
@@ -68,19 +70,21 @@ class Container extends Component {
                             </div>
                         </a>
                             <Card.Body>
-                            <Card.Title>Node.js Blog</Card.Title>
+                            <Card.Title>
+                                Node.js Blog
+                                <br />
+                            </Card.Title>
                             <Card.Text>
                                 使用 Node.js, Express, Sequelize
                                 <br />
                                 部署在 AWS EC2
                                 <br />
-                                支援 Markdown 語法
+                                支援 <i class="fab fa-markdown">Markdown</i> 語法
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className="text-muted">
-                            <a href="https://github.com/enter3017sky/blog-node-express">
-                                <i className="fab fa-github mr-2"></i>
-                                Source Code
+                            <a href="https://github.com/enter3017sky/blog-node-express" target="blank">
+                                <i className="fab fa-github mr-2 p-2">Source Code</i>
                             </a>
                         </Card.Footer>
                     </Card>
@@ -100,9 +104,8 @@ class Container extends Component {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className="text-muted">
-                            <a href="https://github.com/enter3017sky/twitch-API-practice">
-                                <i className="fab fa-github mr-2"></i>
-                                Source Code
+                            <a href="https://github.com/enter3017sky/twitch-API-practice" target="blank">
+                                <i className="fab fa-github mr-2 p-2">Source Code</i>
                             </a>
                         </Card.Footer>
                     </Card>
@@ -119,29 +122,26 @@ class Container extends Component {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className="text-muted">
-                            <a href="https://enter3017sky.github.io/Css-practice/">
-                                <i className="fab fa-github mr-2"></i>
-                                Source Code
+                            <a href="https://github.com/enter3017sky/Css-practice" target="blank">
+                                <i className="fab fa-github mr-2 p-2">Source Code</i>
                             </a>
                         </Card.Footer>
                     </Card>
                     <Card className="example">
-                        <a href="https://enter3017sky.github.io/Css-practice/" target="blank">
+                        <a href="https://enter3017sky.github.io/react-todo/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src={require('../../img/form.png')} />
+                                <Card.Img variant="top" src="https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/react-todo.png" />
                             </div>
                         </a>
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>React Todo list</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            使用 React, Vanilla JS
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className="text-muted">
-                            <a href="https://github.com/enter3017sky/Css-practice">
-                                <i className="fab fa-github mr-2"></i>
-                                Source Code
+                            <a href="https://github.com/enter3017sky/react-todo" target="blank">
+                                <i className="fab fa-github mr-2 p-2">Source Code</i>
                             </a>
                         </Card.Footer>
                     </Card>

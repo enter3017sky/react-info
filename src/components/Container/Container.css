@@ -37,6 +37,11 @@
 .example-row ~ .example-row {
     padding-bottom: 3rem;
 }
+
+.fa-github:before, .fa-markdown:before {
+    margin-right: 0.4rem;
+}
+
 /* .example > a > img {
 	width: auto;
 	height: auto;
