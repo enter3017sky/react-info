@@ -46,4 +46,3 @@ Finally, make sure **GitHub Pages** option in your GitHub project settings is se
 ![image](https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/github-pages.png)
 
 但在公開的項目上可以在 `Settings -> Branches -> Default branch` 設定顯示為 **master** 或 **gh-pages**
-

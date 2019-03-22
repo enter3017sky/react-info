@@ -17,7 +17,7 @@ class Container extends Component {
                     <Card className="example">
                         <a href="http://forum.enter3017sky.tw/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src='https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/forum-php.gif' />
+                                <Card.Img variant="top" src={require('../../img/forum-php-resize.gif')} />
                             </div>
                         </a>
                         <Card.Body>
@@ -42,7 +42,7 @@ class Container extends Component {
                     <Card className="example">
                         <a href="http://enter3017sky.tw/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src='https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/php-blog.gif' />
+                                <Card.Img variant="top" src={require('../../img/php-blog-resize.gif')} />
                             </div>
                         </a>
                         <Card.Body>
@@ -63,10 +63,11 @@ class Container extends Component {
                             </a>
                         </Card.Footer>
                     </Card>
+
                     <Card className="example">
                         <a href="http://blog.enter3017sky.tw/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src='https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/nodeblog.gif' />
+                                <Card.Img variant="top" src={require('../../img/nodeblog-resize.gif')} />
                             </div>
                         </a>
                             <Card.Body>
@@ -94,7 +95,7 @@ class Container extends Component {
                     <Card className="example">
                         <a href="https://enter3017sky.github.io/twitch-API-practice/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src="https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/twitch_api.gif" />
+                                <Card.Img variant="top" src={require('../../img/twitch_api-resize.gif')} />
                             </div>
                         </a>
                         <Card.Body>
