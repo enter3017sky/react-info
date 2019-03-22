@@ -1,18 +1,18 @@
 {
   "main.css": "/react-info/./static/css/main.8d48dcfb.chunk.css",
-  "main.js": "/react-info/./static/js/main.9da4d18b.chunk.js",
-  "main.js.map": "/react-info/./static/js/main.9da4d18b.chunk.js.map",
+  "main.js": "/react-info/./static/js/main.a05cfedd.chunk.js",
+  "main.js.map": "/react-info/./static/js/main.a05cfedd.chunk.js.map",
   "runtime~main.js": "/react-info/./static/js/runtime~main.ea083975.js",
   "runtime~main.js.map": "/react-info/./static/js/runtime~main.ea083975.js.map",
   "static/js/2.e5998a82.chunk.js": "/react-info/./static/js/2.e5998a82.chunk.js",
   "static/js/2.e5998a82.chunk.js.map": "/react-info/./static/js/2.e5998a82.chunk.js.map",
   "index.html": "/react-info/./index.html",
-  "precache-manifest.2381b0a3efd48ed2558c8f5ce02e99ec.js": "/react-info/./precache-manifest.2381b0a3efd48ed2558c8f5ce02e99ec.js",
+  "precache-manifest.0d6dc50bc0df1aed7a756a8cd083293a.js": "/react-info/./precache-manifest.0d6dc50bc0df1aed7a756a8cd083293a.js",
   "service-worker.js": "/react-info/./service-worker.js",
   "static/css/main.8d48dcfb.chunk.css.map": "/react-info/./static/css/main.8d48dcfb.chunk.css.map",
   "static/media/form.png": "/react-info/./static/media/form.609fd73e.png",
-  "static/media/forum-php-resize.gif": "/react-info/./static/media/forum-php-resize.b7813c1b.gif",
-  "static/media/nodeblog-resize.gif": "/react-info/./static/media/nodeblog-resize.52038adb.gif",
-  "static/media/php-blog-resize.gif": "/react-info/./static/media/php-blog-resize.7c3ada04.gif",
-  "static/media/twitch_api-resize.gif": "/react-info/./static/media/twitch_api-resize.771f8829.gif"
+  "static/media/node-blog.png": "/react-info/./static/media/node-blog.2d5b5c34.png",
+  "static/media/php-blog.png": "/react-info/./static/media/php-blog.df139e50.png",
+  "static/media/php-forum.png": "/react-info/./static/media/php-forum.cfd9adcc.png",
+  "static/media/twitch-api.jpg": "/react-info/./static/media/twitch-api.739ae8c2.jpg"
 }
