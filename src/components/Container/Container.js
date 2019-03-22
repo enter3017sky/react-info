@@ -17,7 +17,7 @@ class Container extends Component {
                     <Card className="example">
                         <a href="http://forum.enter3017sky.tw/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src={require('../../img/forum-php-resize.gif')} />
+                                <Card.Img variant="top" src={require('../../img/php-forum.png')} />
                             </div>
                         </a>
                         <Card.Body>
@@ -42,7 +42,7 @@ class Container extends Component {
                     <Card className="example">
                         <a href="http://enter3017sky.tw/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src={require('../../img/php-blog-resize.gif')} />
+                                <Card.Img variant="top" src={require('../../img/php-blog.png')} />
                             </div>
                         </a>
                         <Card.Body>
@@ -67,7 +67,7 @@ class Container extends Component {
                     <Card className="example">
                         <a href="http://blog.enter3017sky.tw/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src={require('../../img/nodeblog-resize.gif')} />
+                                <Card.Img variant="top" src={require('../../img/node-blog.png')} />
                             </div>
                         </a>
                             <Card.Body>
@@ -95,7 +95,7 @@ class Container extends Component {
                     <Card className="example">
                         <a href="https://enter3017sky.github.io/twitch-API-practice/" target="blank">
                             <div className="img_box">
-                                <Card.Img variant="top" src={require('../../img/twitch_api-resize.gif')} />
+                                <Card.Img variant="top" src={require('../../img/twitch-api.jpg')} />
                             </div>
                         </a>
                         <Card.Body>
