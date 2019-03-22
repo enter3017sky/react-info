@@ -1,14 +1,18 @@
 {
   "main.css": "/react-info/./static/css/main.8d48dcfb.chunk.css",
-  "main.js": "/react-info/./static/js/main.a9cc2515.chunk.js",
-  "main.js.map": "/react-info/./static/js/main.a9cc2515.chunk.js.map",
+  "main.js": "/react-info/./static/js/main.9da4d18b.chunk.js",
+  "main.js.map": "/react-info/./static/js/main.9da4d18b.chunk.js.map",
   "runtime~main.js": "/react-info/./static/js/runtime~main.ea083975.js",
   "runtime~main.js.map": "/react-info/./static/js/runtime~main.ea083975.js.map",
-  "static/js/2.f6994d94.chunk.js": "/react-info/./static/js/2.f6994d94.chunk.js",
-  "static/js/2.f6994d94.chunk.js.map": "/react-info/./static/js/2.f6994d94.chunk.js.map",
+  "static/js/2.e5998a82.chunk.js": "/react-info/./static/js/2.e5998a82.chunk.js",
+  "static/js/2.e5998a82.chunk.js.map": "/react-info/./static/js/2.e5998a82.chunk.js.map",
   "index.html": "/react-info/./index.html",
-  "precache-manifest.d6f3b34ac2b77aa3c17856b1626f9e39.js": "/react-info/./precache-manifest.d6f3b34ac2b77aa3c17856b1626f9e39.js",
+  "precache-manifest.2381b0a3efd48ed2558c8f5ce02e99ec.js": "/react-info/./precache-manifest.2381b0a3efd48ed2558c8f5ce02e99ec.js",
   "service-worker.js": "/react-info/./service-worker.js",
   "static/css/main.8d48dcfb.chunk.css.map": "/react-info/./static/css/main.8d48dcfb.chunk.css.map",
-  "static/media/form.png": "/react-info/./static/media/form.609fd73e.png"
+  "static/media/form.png": "/react-info/./static/media/form.609fd73e.png",
+  "static/media/forum-php-resize.gif": "/react-info/./static/media/forum-php-resize.b7813c1b.gif",
+  "static/media/nodeblog-resize.gif": "/react-info/./static/media/nodeblog-resize.52038adb.gif",
+  "static/media/php-blog-resize.gif": "/react-info/./static/media/php-blog-resize.7c3ada04.gif",
+  "static/media/twitch_api-resize.gif": "/react-info/./static/media/twitch_api-resize.771f8829.gif"
 }
